@@ -128,6 +128,7 @@ ylabel('Amplitude');
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/624460e3-2e22-406b-b9f7-0d90ccd5cf11" />
 
+![WhatsApp Image 2025-12-05 at 13 49 13_e856ed7c](https://github.com/user-attachments/assets/635be31a-03e3-4ab8-b084-c9f7887e34d5)
 
 
 
